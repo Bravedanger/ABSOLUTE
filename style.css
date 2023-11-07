@@ -1,0 +1,40 @@
+*
+.MAMA 
+{ background-color: antiquewhite;
+    height: 400px;
+    width: 600px;
+    border: 3px solid black;
+    
+    position: relative;
+    top: 50px;
+    left: 70px;
+} 
+.son
+{ background-color: aqua;
+    height: 20px;
+    width: 40px;
+    position:absolute;
+    border: 1px solid red;
+    top: 60px;
+    left: 120px;
+
+
+
+
+
+} 
+.son1
+{ background-color: rgb(255, 0, 0);
+    height: 150px;
+    width: 300px;
+    position:absolute;
+    border: 1px solid rgb(33, 9, 9);
+   top: 150px;
+   left: 250px ;
+
+
+
+
+
+
+}
